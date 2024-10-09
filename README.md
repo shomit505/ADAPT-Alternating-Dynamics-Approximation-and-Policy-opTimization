@@ -1,0 +1,1 @@
+ADAPT aims to holistically learn a dynamics model, perform optimistic planning, and policy iteration. The code in the repo includes both tabular and random fourier feature based implementations of this algorithm. 
